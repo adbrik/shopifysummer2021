@@ -4,6 +4,7 @@
 # User-specific files
 *.vscode
 *data.db
+.DS_Store
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
